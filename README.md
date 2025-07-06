@@ -1,13 +1,11 @@
 # 🎮 게임 수학 예제 따라해보기
 
 C++ 기반의 **게임 수학 교재 예제 코드**를 따라 작성하고 직접 실행해보는 학습용 프로젝트입니다.
-원본 링크: https://github.com/onlybooks/gamemath
+</br>원본 링크: https://github.com/onlybooks/gamemath
 ---
 
 ## ✅ 실행 전 필수 설정
-
 > ⚠️ **CMake 버전 문제로 인한 프로젝트 생성 오류 해결**
-
 ### 🔍 문제점  
 교재에서 제공하는 `.bat` 파일  
 - `CMake-VS-16-2019.bat`  
@@ -17,12 +15,8 @@ C++ 기반의 **게임 수학 교재 예제 코드**를 따라 작성하고 직�
 이는 `CMakeLists.txt`에 명시된 **최소 CMake 버전이 너무 낮기 때문**입니다.
 
 ### 🔧 해결 방법
-
-`cmake_minimum_required(VERSION 3.1)`  
-⬇️  
-`cmake_minimum_required(VERSION 3.5)`  
-
-로 변경해 주세요.
+`cmake_minimum_required(VERSION 3.1)`  → `cmake_minimum_required(VERSION 3.5)` 
+</br>로 변경해야 합니다.
 
 ### ✏️ 수정 대상 파일 목록 (총 5개)
 
