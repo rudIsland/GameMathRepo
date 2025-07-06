@@ -1,7 +1,7 @@
 # 🎮 게임 수학 예제 따라해보기
 
 C++ 기반의 **게임 수학 교재 예제 코드**를 따라 작성하고 직접 실행해보는 학습용 프로젝트입니다.
-<sub>📚 원본 레포지토리: [onlybooks/gamemath](https://github.com/onlybooks/gamemath)</sub>
+</br><sub>📚 원본 레포지토리: [onlybooks/gamemath](https://github.com/onlybooks/gamemath)</sub>
 ---
 
 ## ✅ 실행 전 필수 설정
