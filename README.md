@@ -10,9 +10,9 @@ C++ 기반의 **게임 수학 교재 예제 코드**를 따라 작성하고 직�
 교재에서 제공하는 `.bat` 파일  
 - `CMake-VS-16-2019.bat`  
 - `CMake-VS-17-2022.bat`  
-
 을 그대로 실행하면 **Visual Studio 프로젝트 파일이 제대로 생성되지 않는 문제**가 발생합니다.  
-이는 `CMakeLists.txt`에 명시된 **최소 CMake 버전이 너무 낮기 때문**입니다.
+Why? </br>`CMakeLists.txt`에 명시된 **최소 CMake 버전이 너무 낮기 때문**에 해당 설명대로 실행하면 설명에 있는 Project파일이 제대로 생성되지 않아서
+교재내 예제코드들을 볼 수 없습니다.
 
 ### 🔧 해결 방법
 `cmake_minimum_required(VERSION 3.1)`  → `cmake_minimum_required(VERSION 3.5)` 
