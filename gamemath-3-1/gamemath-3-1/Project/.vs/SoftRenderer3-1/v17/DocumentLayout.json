@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BB3EF-8956-3DE0-B240-835D96AEF91B}|Source\\Player\\SoftRendererPlayer.vcxproj|C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Player\\SoftRenderer2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AB0FF8-99D1-32CA-89C0-0B3D802858DC}|Source\\Runtime\\Math\\MathModule.vcxproj|C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Runtime\\Math\\Public\\LinearColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftRenderer2D.cpp",
+              "DocumentMoniker": "C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Player\\SoftRenderer2D.cpp",
+              "RelativeDocumentMoniker": "..\\Source\\Player\\SoftRenderer2D.cpp",
+              "ToolTip": "C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Player\\SoftRenderer2D.cpp",
+              "RelativeToolTip": "..\\Source\\Player\\SoftRenderer2D.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T05:58:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinearColor.h",
+              "DocumentMoniker": "C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Runtime\\Math\\Public\\LinearColor.h",
+              "RelativeDocumentMoniker": "..\\Source\\Runtime\\Math\\Public\\LinearColor.h",
+              "ToolTip": "C:\\GameMathSource\\gamemath-3-1\\gamemath-3-1\\Source\\Runtime\\Math\\Public\\LinearColor.h",
+              "RelativeToolTip": "..\\Source\\Runtime\\Math\\Public\\LinearColor.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T05:57:37.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

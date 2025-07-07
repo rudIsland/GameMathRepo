@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/GitRepo/GameMath_Repo/GameMathRepo/gamemath-4-5/gamemath-4-5/Project/cmake_install.cmake",
+		"D:/GitRepo/GameMath_Repo/GameMathRepo/gamemath-4-5/gamemath-4-5/Project/Source/Runtime/Math/cmake_install.cmake",
+		"D:/GitRepo/GameMath_Repo/GameMathRepo/gamemath-4-5/gamemath-4-5/Project/Source/Runtime/Renderer/cmake_install.cmake",
+		"D:/GitRepo/GameMath_Repo/GameMathRepo/gamemath-4-5/gamemath-4-5/Project/Source/Runtime/Engine/cmake_install.cmake",
+		"D:/GitRepo/GameMath_Repo/GameMathRepo/gamemath-4-5/gamemath-4-5/Project/Source/Player/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

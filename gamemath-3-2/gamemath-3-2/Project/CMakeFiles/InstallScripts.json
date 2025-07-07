@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/GameMathSource/gamemath-3-2/gamemath-3-2/Project/cmake_install.cmake",
+		"C:/GameMathSource/gamemath-3-2/gamemath-3-2/Project/Source/Runtime/Math/cmake_install.cmake",
+		"C:/GameMathSource/gamemath-3-2/gamemath-3-2/Project/Source/Runtime/Renderer/cmake_install.cmake",
+		"C:/GameMathSource/gamemath-3-2/gamemath-3-2/Project/Source/Runtime/Engine/cmake_install.cmake",
+		"C:/GameMathSource/gamemath-3-2/gamemath-3-2/Project/Source/Player/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

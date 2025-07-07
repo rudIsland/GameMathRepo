@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepo\\GameMath_Repo\\GameMathRepo\\gamemath-5-1\\gamemath-5-1\\Project\\Source\\Player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D5BF13-2E5C-3579-A2C5-03AAC2923969}|SoftRendererPlayer.vcxproj|D:\\GitRepo\\GameMath_Repo\\GameMathRepo\\gamemath-5-1\\gamemath-5-1\\Source\\Player\\SoftRenderer2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftRenderer2D.cpp",
+              "DocumentMoniker": "D:\\GitRepo\\GameMath_Repo\\GameMathRepo\\gamemath-5-1\\gamemath-5-1\\Source\\Player\\SoftRenderer2D.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Source\\Player\\SoftRenderer2D.cpp",
+              "ToolTip": "D:\\GitRepo\\GameMath_Repo\\GameMathRepo\\gamemath-5-1\\gamemath-5-1\\Source\\Player\\SoftRenderer2D.cpp",
+              "RelativeToolTip": "..\\..\\..\\Source\\Player\\SoftRenderer2D.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T04:44:44.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

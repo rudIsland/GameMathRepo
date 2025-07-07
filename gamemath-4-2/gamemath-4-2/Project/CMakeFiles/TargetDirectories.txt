@@ -1,0 +1,9 @@
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/CMakeFiles/ALL_BUILD.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Math/CMakeFiles/MathModule.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Math/CMakeFiles/ALL_BUILD.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Renderer/CMakeFiles/RendererModule.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Renderer/CMakeFiles/ALL_BUILD.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Engine/CMakeFiles/EngineModule.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Runtime/Engine/CMakeFiles/ALL_BUILD.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Player/CMakeFiles/SoftRendererPlayer.dir
+C:/GameMathSource/gamemath-4-2/gamemath-4-2/Project/Source/Player/CMakeFiles/ALL_BUILD.dir
